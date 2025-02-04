@@ -3,7 +3,7 @@
 ![1500x500](https://github.com/user-attachments/assets/5b4f69d8-ade2-4da5-b9bf-d4d10563f027)
 ## Overview
 
-S1MS Studios is an AI-powered short video generation platform inspired by The Sims. Users can input their own ideas and characters, and the system will create short AI-generated films. The project leverages **DeepSeek V3** for advanced scene rendering and character animation, bringing users' creative visions to life.
+S1MS Studios is an AI-driven storytelling platform where users craft and stream AI-generated short films, blending creativity with DeepSeek powered narratives.
 
 ## Features
 
