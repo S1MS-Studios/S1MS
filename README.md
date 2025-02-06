@@ -24,7 +24,6 @@ Users can either access S1MS Studios directly on the **official website** or ins
 3. Input character details and storyline prompts
 4. AI generates a short video based on the input
 5. Preview, edit, and download the video
-6. Optionally mint the video as an NFT using $S1MS
 
 ### Option 2: Install Locally
 
@@ -34,7 +33,7 @@ Users can either access S1MS Studios directly on the **official website** or ins
 
 - **Backend**: Python, FastAPI
 - **AI Model**: DeepSeek V3
-- **Frontend**: React, TailwindCSS
+- **Frontend (site)**: React, TailwindCSS
 - **Blockchain**: Solana (for tokenized interactions)
 - **Database**: PostgreSQL
 
@@ -42,7 +41,7 @@ Users can either access S1MS Studios directly on the **official website** or ins
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/S1MS-Studios.git
+   git clone https://github.com/S1MS-Studios/S1MS.git
    cd S1MS-Studios
    ```
 2. Install dependencies:
